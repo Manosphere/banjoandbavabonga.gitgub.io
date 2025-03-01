@@ -1,0 +1,23 @@
+p {
+    color: #144792;
+
+    font-family: initial;
+}
+
+h1 {
+    color: #b81e09;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: 265%;
+}
+h2 {
+    color: #0fa309;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(wp1994974.jpg);
+
+}
